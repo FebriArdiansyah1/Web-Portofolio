@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+.back{
+    position: absolute;
+    top: 30px;
+}
+.back{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    background: #7d2ae8;
+    border-radius: 50%;
+    margin-right: 20px;
+    text-align: center;
+    line-height: 35px;
+    border: 1px solid #fff;
+    outline: 2px solid #7d2ae8;
+    transition: .3s;
+    margin-left: 15px;
+}
+.back {
+    transform: translateY(-5);
+}
+
+.back a i {
+    color: #fff;
+}
+
+header h2 {
+    font-size: 3em;
+}
+header h2 {
+    color: #7d2ae8;
+   margin-left: 550px;
+}
+.p {
+    font-size: medium;
+    margin-left: 20px;
+    margin-top: 150px;
+    max-width: 800px;
+    text-indent: 25px;
+}
+
+p span {
+    color: #7d2ae8;
+    font-size: 30px;
+    
+}
+
+.home {
+   position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(portofolio1.jpeg);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: right;
+display: flex;    align-items: left;
+}

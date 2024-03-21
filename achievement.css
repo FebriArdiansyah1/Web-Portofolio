@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 250px;
+
+}
+.btn a {
+    color:#fff;
+    text-decoration: none;
+    padding: 10px 40px;
+    background: #7d2ae8;
+    border-radius: 10px;
+    border: 2px solid #7d2ae8;
+    font-weight: 500;
+    transition: .3s;
+    margin-left: 950px;
+}
